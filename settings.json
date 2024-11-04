@@ -18,10 +18,18 @@
   "dart.sdkPaths": ["/home/abraham/dev/flutter/bin/flutter"],
   "tabnine.experimentalAutoImports": true,
   "dart.openDevTools": "flutter",
-  "php.validate.executablePath": "/usr/bin/php",
   "security.workspace.trust.untrustedFiles": "open",
   "workbench.startupEditor": "none",
-  "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Default Dark+",
-  "editor.stickyScroll.enabled": false
+  "editor.stickyScroll.enabled": false,
+  "workbench.sideBar.location": "right",
+  "explorer.compactFolders": false,
+  "terminal.integrated.profiles.osx": {
+    "zsh": {
+      "path": "zsh",
+      "args": ["-i"]
+    }
+  },
+  "php.validate.executablePath": "/usr/bin/php",
+  "workbench.colorTheme": "Night Owl",
+  "terminal.integrated.fontFamily": "MesloLGS NF"
 }
